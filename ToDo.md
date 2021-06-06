@@ -1,6 +1,6 @@
 1. Hexagonal Pattern 공부
 2. DDD, Clean Code 공부
-3. 연합동아리 플젝 - 엄격한 패턴적용, TDD, MSA 적용해보기
+3. 연합동아리 플젝 - 엄격한 패턴적용, TDD, MSA 적용해보기, 다양한 Exception handling, Custom Annotation, 엄격한 Validation Check, Dto의 적극 활용(레이어간 확실한 분리)
 4. MSA 공부
 5. Kafka, Redis, MongoDB, Docker, k8s 공부
 6. BoB0x10 Provider Refactoring(서비스계층 분리)
