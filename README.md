@@ -1,3 +1,4 @@
+[KITRI BoB 보안제품개발트랙 Best10](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?SITE_NO=5&BBS_SEQ=1325&BOARD_SEQ=11&MENU_ID=100)
 
 Skilled at
 
