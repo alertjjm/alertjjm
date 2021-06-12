@@ -7,7 +7,7 @@
 7. 토익, 헬스
 8. 시간날때 JS, React or Node 공부
 9. 포트폴리오 정리
-
+10. SW Engineering 과목에서 배웠듯이 domain별로 subgroup을 나누고 RAD를 꼼꼼하게하고 UC를 만들어서 req별로 issue를 만들고 UC별로 tdd와 branch를 파고 domain branch에 머지한 후 최종적으로 standalone으로 
 ----
 
 참고도서
