@@ -6,7 +6,7 @@
 
  <h2>Skilled at</h2>
 
-Spring Boot, Spring, JPA, Hibernate, MySQL, Jenkins, Java, Python, Cpp, Pcap programming, Selenium, SW Engineering, Web hacking, ELK Stack
+Spring Boot, Spring, JPA, Hibernate, MySQL, Devops(Jenkins, AWS), Java, Python, Cpp, Pcap programming, Selenium, SW Engineering, Web hacking, ELK Stack
 
  <h3>Basic Knowledge</h3>
 
