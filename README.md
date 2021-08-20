@@ -4,7 +4,7 @@
 
 [KITRI BoB 보안제품개발트랙(2020.07 ~ 2021.03) - Best10](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?SITE_NO=5&BBS_SEQ=1325&BOARD_SEQ=11&MENU_ID=100)
  
-[DnD 개발 연합 동아리 5기(2021.06 ~ ing)](https://dnd.ac/)
+[DnD 개발 연합 동아리 5기(2021.06 ~ 2021.08)](https://dnd.ac/)
  
 [Mash-UP 개발 연합 동아리 11기(2021.07 ~ ing)](https://mash-up.it/)
  
