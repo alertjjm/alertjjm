@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Hack-Reversing-orange"/>
 </p>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alertjjm&hide=jupyter%20notebook,javascript,c,assembly,makefile,shell,perl,html,roff)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alertjjm&hide=jupyter%20notebook,javascript,c,assembly,makefile,shell,perl,html,roff,css,smpl)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chelsea2936"/></p>
  
