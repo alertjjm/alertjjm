@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/Hack-Pwnable-red"/>
   <img src="https://img.shields.io/badge/Hack-Reversing-orange"/>
 </p>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alertjjm&hide=jupyter%20notebook,javascript,c,assembly,makefile,shell,perl,html,roff,css,smpl,yacc,typescript,qmake,tsql)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chelsea2936"/></p>
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falertjjm)](https://hits.seeyoufarm.com) 
 </div>
